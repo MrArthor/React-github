@@ -12,7 +12,7 @@
         "react-scripts": "5.0.1",
         "web-vitals": "^3.5.0"
     },
-    "homepage": "https://myusername.github.io/my-app",
+    "homepage": "https://mrarthor.github.io/React-github/",
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
